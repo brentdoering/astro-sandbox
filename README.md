@@ -4,4 +4,7 @@ This is a Sandbox project following the official Astro tutorial documentation; w
 
 @ToDo
 ---
-Update XML doc to final hosted site info.
+1. Update XML doc to final hosted site info.
+2. Update styles.
+3. Check LH score.
+4. Optimize further?
